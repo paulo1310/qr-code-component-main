@@ -86,5 +86,5 @@ Pretendo continuar focado em construir um conhecimento sólido nessas limguagens
 
 ## Autor
 
-[Fernando Mendes](https://www.linkedin.com/in/fernandomendesti/)
+[Paulo Carvalho](https://www.linkedin.com/in/paulocarvalho13/)
 
